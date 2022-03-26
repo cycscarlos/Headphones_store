@@ -59,6 +59,8 @@
 }
 
 /*=============== BASE ===============*/
+::before,
+::after,
 * {
   box-sizing: border-box;
   padding: 0;
@@ -523,9 +525,12 @@ img {
   background-color: var(--black-color);
 }
 
+/** -------- Copyright ------ */
 .footer__copy {
   margin-top: 5rem;
   text-align: center;
+  font-size: var(--smaller-font-size);
+  color: var(--text-color-light);
 }
 
 .footer__copy-link {
@@ -533,13 +538,23 @@ img {
   color: var(--text-color-light);
 }
 
-.footer__copy-link span {
+.footer__copy a {
+  color: var(--text-color-light);
+  text-decoration: underline;
+}
+
+.footer__copy a:hover {
+  opacity: 0.5;
+  text-decoration: none;
+}
+
+/* .footer__copy-link span {
   color: #ff4900;
 }
 
 .footer__copy-link span:hover {
   opacity: 0.5;
-}
+} */
 
 /*=============== SCROLL UP ===============*/
 .scrollup {
