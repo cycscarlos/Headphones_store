@@ -1,4 +1,4 @@
-![zCoder Banner!](img/miBanner.png)
+![zCoder Banner!](assets/css/img/miBanner.png)
 
 <br>
 
@@ -6,18 +6,14 @@
 
 <br>
 
-<p style="text-align:justify; font-size:14px">
+### <div style="text-align:center color:#ff4c00"><h3>Is a complete, responsive and Multi-page HTML, CSS & Javascript website</h3></div>
+
 <br>
 
-This is my CV website
+##Include:
 <br>
 
-Is a complete and responsive and Multi-page HTML, CSS & Javascript website
-<br>
-
-Include:
-<br>
-
+<p style="text-align:justify; font-size:12x">
 - Menu navigation management
 - Background heros images and videos
 - Use of animations libraries for images and cards
