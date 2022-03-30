@@ -1,9 +1,30 @@
-# Responsive Landing Page Headphones 🎧
+![zCoder Banner!](img/miBanner.png)
 
-- Beautiful headphone landing page using HTML, CSS and JAVASCRIPT.
-- Dark interface.
-- With animations when scrolling.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+<br>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b4809402-88b8-42f9-a343-3b4d336c3ca0/deploy-status)](https://app.netlify.com/sites/headphone-website/deploys)
+---
+
+<br>
+
+<p style="text-align:justify; font-size:14px">
+<br>
+
+This is my CV website
+<br>
+
+Is a complete and responsive and Multi-page HTML, CSS & Javascript website
+<br>
+
+Include:
+<br>
+
+- Menu navigation management
+- Background heros images and videos
+- Use of animations libraries for images and cards
+- Use of icons libraries
+- Use of font libraries
+- Use of Flexbox and Grid technologies
+- HTML Form for contact management through 3er-parties
+- A lot of Javascript routines for multiple effects
+- Responsive techniques for different devices, such a variables for font-sizes, Clamp, colors, width and height, etc.
+</p>
